@@ -5,8 +5,8 @@ form install or uninstall GSU Tools
     option uninstall
   optionmenu Operating_system 1
     option set operating system first
-    option Mac OSX
-    option Windows XP
+    option Mac
+    option Windows
   comment Enter name of desktop (e.g., Desktop, Skrivebord, etc.)...
   word Desktop_name Desktop
 endform
