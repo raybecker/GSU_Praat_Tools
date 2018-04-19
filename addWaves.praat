@@ -4,33 +4,6 @@
 # two waveforms can be added to create a stereo file, or an 
 # unlimited number of waveforms can be added as a mono file
 
-# Michael J. Owren, Ph.D.
-# Psychology of Voice and Sound Laboratory
-# Department of Psychology
-# Georgia State University
-# Atlanta, GA 30303, USA
-
-# email: owren@gsu.edu
-# home page: http://sites.google.com/site/michaeljowren/
-# lab page: http://sites.google.com/site/psyvoso/home
-
-# Copyright 2007-2011 Michael J. Owren
-
-# addWaves is part of GSU Praat Tools 1.9. GSU Praat Tools is
-# free software; you can redistribute it and/or modify it under the
-# terms of the GNU General Public License as published by the Free
-# Software Foundation; either version 3 of the License, or (at your
-# option) any later version.
-
-# addWaves is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-# GNU General Public License for more details.
-
-# You should have received a copy of the GNU General Public License
-# in a text file called "Copying" along with this program. If not, see
-# <http://www.gnu.org/licenses/>.
-
 form add selected waveforms
   comment Select two sounds to become left and right channels of a stereo sound,
   comment or select an unlimited number of sounds for waveform addition.
